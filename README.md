@@ -17,9 +17,12 @@ Welcome to the Handmade Store repository! This project is an online store for ha
 - Backend: Node.js, Express.js
 - Database: MongoDB
 
-### AI-chatbot
+## AI-chatbot
 - Libraries/Frameworks: Flask , TensorFlow, tflearn, NLTK
-- Developed a customer-centric chatbot for an online handmade store, addressing queries on customization, payment, and product recommendations. Currently standalone, with future plans to seamlessly integrate with the store for enhanced functionality.
+- Developed a customer-centric chatbot for an online handmade store, addressing queries on customization, payment, and product recommendations.
+
+## Future work 
+- Chatbot -  Currently standalone, with future plans to seamlessly integrate with the store for enhanced functionality.
 
 Whether you're shopping for a special occasion, personalizing a gift, or looking for products for upcoming events, festivals, or children, the Handmade Store has something for everyone. Explore our collection of handmade products and enjoy a unique and delightful shopping experience.
 
